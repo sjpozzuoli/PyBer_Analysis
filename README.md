@@ -10,7 +10,7 @@
 
 #### When it comes to revenue generated, it is also to be expected that most came from Urban areas due to the much higher amount of total rides. However, the interesting piece of the data is disparity between average fare per ride and driver. From a passenger perspective, an individual living in a Rural area will have to spend 13% more per ride than someone living in a Suburabn area and 40% more than someone living in an Urban area. The main cause of this can be attributed to the further distances people in Rural areas must travel to go shopping, go to restaurants, visit friends and family, etc. Due to the longer distances and far fewer drivers, it is also to be expected that the average fare, when broken down by Driver, is higher in Rural areas than Urban and Suburban areas.
 
-#### The data was also broken down by month to provide a visual line chart of the total fares by month. The information displayed here is consistent with the analysis provided above, where the majority of fare revenue comes from Urban areas and that is true month over month.
+#### The data was also broken down to provide a visual line chart of the total fares by month. The information displayed here is consistent with the analysis provided above, where the majority of fare revenue comes from Urban areas, and that is true month over month.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/81929616/119243162-51332f80-bb32-11eb-86df-8ef83a5735db.png)
 

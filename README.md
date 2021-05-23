@@ -16,4 +16,8 @@
 
 ## Summary
 
-####
+#### There are some interesting conclusions that can be drawn from the depictions above. If I were to advise the CEO on a few business recommendations based on them, they would be the following:
+
+1. Exploring an increase in hiring of drivers and slightly lowering of costs in Rural areas. Riders in the Rural areas have to pay a much higher price per ride. This could ultimately lead to a further drop off of ridership because of the higher prices they have to pay. Individuals may explore other forms of getting around, like public transportation. 
+2. Limit the number of drivers hired in Urban areas to increase the revenue generated for the drivers. With the way the current data stands, there were 1625 total rides taken, but 2405 drivers. There are more drivers than total rides taken, which means there are drivers who worked without providing any rides. As a way to cut company costs, some of these drivers could be let go as there are not enough rides to be shared.
+3. 
